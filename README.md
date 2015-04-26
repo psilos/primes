@@ -6,6 +6,6 @@ Example
 The REST call should look like  http://host.com/primes/10  and should return JSON content:
 
 {
-  “Initial”:  “10
-  “Priimes”: [2,3,5,7]
+  “initial”: 10
+  “primes”: [2,3,5,7]
 }
